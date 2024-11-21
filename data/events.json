@@ -1,0 +1,786 @@
+{
+    "933eb8d457c749da54a3c77bcc0af5b8": {
+        "summary": "Rechnerarchitektur (IN2076) VO, Standardgruppe",
+        "dtstart": "2024-10-22 10:30:00+00:00",
+        "dtend": "2024-10-22 12:00:00+00:00",
+        "location": "00.04.011, MI H\u00f6rsaal 2 (5604.EG.011)",
+        "user_added": false
+    },
+    "e3e830d1fa50b8ba64a189c0241e79f6": {
+        "summary": "Rechnerarchitektur (IN2076) VO, Standardgruppe",
+        "dtstart": "2024-11-22 11:00:00+00:00",
+        "dtend": "2024-11-22 13:00:00+00:00",
+        "location": "00.04.011, MI H\u00f6rsaal 2 (5604.EG.011)",
+        "user_added": false
+    },
+    "8102d678ce1fed3b4ac6a4a6a1aae479": {
+        "summary": "Rechnerarchitektur (IN2076) VO, Standardgruppe",
+        "dtstart": "2024-11-29 11:00:00+00:00",
+        "dtend": "2024-11-29 13:00:00+00:00",
+        "location": "00.04.011, MI H\u00f6rsaal 2 (5604.EG.011)",
+        "user_added": false
+    },
+    "b52bc9d273ec3cc525aa04b089cdc8a3": {
+        "summary": "Studentische Vollversammlung VO, Standardgruppe",
+        "dtstart": "2024-11-12 09:00:00+00:00",
+        "dtend": "2024-11-12 10:30:00+00:00",
+        "location": "00.510, H\u00f6rsaal U7-b (3505.EG.021)",
+        "user_added": false
+    },
+    "7ade1dd97f1410b6b59797c9f4abbe7a": {
+        "summary": "Studentische Vollversammlung VO, Standardgruppe",
+        "dtstart": "2024-11-12 08:45:00+00:00",
+        "dtend": "2024-11-12 10:15:00+00:00",
+        "location": "0980, Audimax (0509.EG.980)",
+        "user_added": false
+    },
+    "994501398254e6ed702d7fb0cbc09d41": {
+        "summary": "Echtzeitsysteme (IN2060) VO, Standardgruppe",
+        "dtstart": "2024-10-31 15:00:00+00:00",
+        "dtend": "2024-10-31 18:00:00+00:00",
+        "location": "003, H\u00f6rsaal 2, \"Interims II\" (5416.01.003)",
+        "user_added": false
+    },
+    "d816205aaf9d45dca3746d28030fe190": {
+        "summary": "Echtzeitsysteme (IN2060) VO, Standardgruppe",
+        "dtstart": "2024-11-07 15:00:00+00:00",
+        "dtend": "2024-11-07 18:00:00+00:00",
+        "location": "003, H\u00f6rsaal 2, \"Interims II\" (5416.01.003)",
+        "user_added": false
+    },
+    "4083ea73825e4e2405ec028751f6bb2d": {
+        "summary": "Echtzeitsysteme (IN2060) VO, Standardgruppe",
+        "dtstart": "2024-12-12 15:00:00+00:00",
+        "dtend": "2024-12-12 18:00:00+00:00",
+        "location": "003, H\u00f6rsaal 2, \"Interims II\" (5416.01.003)",
+        "user_added": false
+    },
+    "59b621e09eac150c9c8b75749e01877f": {
+        "summary": "Netzwerke f\u00fcr den Zahlungsverkehr (IN2161) VO, Standardgruppe",
+        "dtstart": "2025-02-03 17:00:00+00:00",
+        "dtend": "2025-02-03 19:00:00+00:00",
+        "location": "102, H\u00f6rsaal 2, \"Interims I\" (5620.01.102)",
+        "user_added": false
+    },
+    "7eb3bb3c29369df40e857063581d9790": {
+        "summary": "Patterns in Software Engineering (IN2081) VI, Standardgruppe",
+        "dtstart": "2024-10-21 08:00:00+00:00",
+        "dtend": "2024-10-21 12:00:00+00:00",
+        "location": "00.02.001, MI HS 1, Friedrich L. Bauer H\u00f6rsaal (5602.EG.001)",
+        "user_added": false
+    },
+    "52ce9626c522cb415064443e9ea9ce1a": {
+        "summary": "Patterns in Software Engineering (IN2081) VI, Standardgruppe",
+        "dtstart": "2024-12-16 09:00:00+00:00",
+        "dtend": "2024-12-16 13:00:00+00:00",
+        "location": "00.02.001, MI HS 1, Friedrich L. Bauer H\u00f6rsaal (5602.EG.001)",
+        "user_added": false
+    },
+    "d51548d00567906be9fb2dc18e6435a9": {
+        "summary": "Patterns in Software Engineering (IN2081) VI, Standardgruppe",
+        "dtstart": "2025-01-20 09:00:00+00:00",
+        "dtend": "2025-01-20 13:00:00+00:00",
+        "location": "00.02.001, MI HS 1, Friedrich L. Bauer H\u00f6rsaal (5602.EG.001)",
+        "user_added": false
+    },
+    "60fe33423bc000fb491f714b1c809acb": {
+        "summary": "Patterns in Software Engineering (IN2081) VI, Standardgruppe",
+        "dtstart": "2025-02-03 09:00:00+00:00",
+        "dtend": "2025-02-03 13:00:00+00:00",
+        "location": "00.02.001, MI HS 1, Friedrich L. Bauer H\u00f6rsaal (5602.EG.001)",
+        "user_added": false
+    },
+    "77fd34693c7d9aab095747ecea02b426": {
+        "summary": "Concepts of C++ Programming (CIT323000) VO, Standardgruppe",
+        "dtstart": "2024-10-28 13:30:00+00:00",
+        "dtend": "2024-10-28 16:00:00+00:00",
+        "location": "MW 0001, H\u00f6rsaal (5510.EG.001)",
+        "user_added": false
+    },
+    "9a4e5fb0e3df2c7946aa4813ce6ecbdd": {
+        "summary": "Concepts of C++ Programming (CIT323000) VO, Standardgruppe",
+        "dtstart": "2024-12-16 13:30:00+00:00",
+        "dtend": "2024-12-16 16:00:00+00:00",
+        "location": "MW 0001, H\u00f6rsaal (5510.EG.001)",
+        "user_added": false
+    },
+    "e71f1edecd28ca9ef53001bcacb78c00": {
+        "summary": "Rechnerarchitektur (IN2076) VO, Standardgruppe",
+        "dtstart": "2024-11-12 11:30:00+00:00",
+        "dtend": "2024-11-12 13:00:00+00:00",
+        "location": "00.04.011, MI H\u00f6rsaal 2 (5604.EG.011)",
+        "user_added": false
+    },
+    "1a5742d18b5a4358ff41eaf97486855b": {
+        "summary": "Rechnerarchitektur (IN2076) VO, Standardgruppe",
+        "dtstart": "2024-11-19 11:30:00+00:00",
+        "dtend": "2024-11-19 13:00:00+00:00",
+        "location": "00.04.011, MI H\u00f6rsaal 2 (5604.EG.011)",
+        "user_added": false
+    },
+    "906d12517efc40f4b79cdc2e3abc4ef3": {
+        "summary": "Rechnerarchitektur (IN2076) VO, Standardgruppe",
+        "dtstart": "2024-12-03 11:30:00+00:00",
+        "dtend": "2024-12-03 13:00:00+00:00",
+        "location": "00.04.011, MI H\u00f6rsaal 2 (5604.EG.011)",
+        "user_added": false
+    },
+    "a61e8274fd1504cdea487dad27696980": {
+        "summary": "Rechnerarchitektur (IN2076) VO, Standardgruppe",
+        "dtstart": "2025-01-07 11:30:00+00:00",
+        "dtend": "2025-01-07 13:00:00+00:00",
+        "location": "00.04.011, MI H\u00f6rsaal 2 (5604.EG.011)",
+        "user_added": false
+    },
+    "3c489ebdf8a6aa782a17cf49d642e885": {
+        "summary": "Rechnerarchitektur (IN2076) VO, Standardgruppe",
+        "dtstart": "2025-01-14 11:30:00+00:00",
+        "dtend": "2025-01-14 13:00:00+00:00",
+        "location": "00.04.011, MI H\u00f6rsaal 2 (5604.EG.011)",
+        "user_added": false
+    },
+    "159946b44a291ea3e0e55ed9a9bb3e1f": {
+        "summary": "Rechnerarchitektur (IN2076) VO, Standardgruppe",
+        "dtstart": "2025-01-21 11:30:00+00:00",
+        "dtend": "2025-01-21 13:00:00+00:00",
+        "location": "00.04.011, MI H\u00f6rsaal 2 (5604.EG.011)",
+        "user_added": false
+    },
+    "6fe3e25a24c020498a92cc450a203050": {
+        "summary": "Netzwerke f\u00fcr den Zahlungsverkehr (IN2161) VO, Standardgruppe",
+        "dtstart": "2024-10-28 17:00:00+00:00",
+        "dtend": "2024-10-28 19:00:00+00:00",
+        "location": "102, H\u00f6rsaal 2, \"Interims I\" (5620.01.102)",
+        "user_added": false
+    },
+    "cfc3707f658a9618f732481e41b27ec7": {
+        "summary": "Netzwerke f\u00fcr den Zahlungsverkehr (IN2161) VO, Standardgruppe",
+        "dtstart": "2024-11-25 17:00:00+00:00",
+        "dtend": "2024-11-25 19:00:00+00:00",
+        "location": "102, H\u00f6rsaal 2, \"Interims I\" (5620.01.102)",
+        "user_added": false
+    },
+    "58dad672459170ed6527256e4b72e303": {
+        "summary": "Netzwerke f\u00fcr den Zahlungsverkehr (IN2161) VO, Standardgruppe",
+        "dtstart": "2024-12-02 17:00:00+00:00",
+        "dtend": "2024-12-02 19:00:00+00:00",
+        "location": "102, H\u00f6rsaal 2, \"Interims I\" (5620.01.102)",
+        "user_added": false
+    },
+    "f814f582359e769a5c976328ebaf757a": {
+        "summary": "Virtualisierungstechniken (IN2125) VO, Standardgruppe",
+        "dtstart": "2025-01-10 13:00:00+00:00",
+        "dtend": "2025-01-10 16:00:00+00:00",
+        "location": "00.5901.051, H\u00f6rsaal (5901.EG.051)",
+        "user_added": false
+    },
+    "7753c797adb9920333add9dc31926398": {
+        "summary": "Concepts of C++ Programming (CIT323000) VO, Standardgruppe",
+        "dtstart": "2024-11-11 13:30:00+00:00",
+        "dtend": "2024-11-11 16:00:00+00:00",
+        "location": "MW 0001, H\u00f6rsaal (5510.EG.001)",
+        "user_added": false
+    },
+    "3c32bac022e6b3b30dfcc982a37e59a3": {
+        "summary": "Concepts of C++ Programming (CIT323000) VO, Standardgruppe",
+        "dtstart": "2024-12-02 13:30:00+00:00",
+        "dtend": "2024-12-02 16:00:00+00:00",
+        "location": "MW 0001, H\u00f6rsaal (5510.EG.001)",
+        "user_added": false
+    },
+    "5fc1d5a66c74a9e05336257bae7de67b": {
+        "summary": "Concepts of C++ Programming (CIT323000) VO, Standardgruppe",
+        "dtstart": "2024-10-15 12:00:00+00:00",
+        "dtend": "2024-10-15 14:00:00+00:00",
+        "location": "003, H\u00f6rsaal 2, \"Interims II\" (5416.01.003)",
+        "user_added": false
+    },
+    "748c7c4c5094938059e8af5b6c0bdb55": {
+        "summary": "Concepts of C++ Programming (CIT323000) VO, Standardgruppe",
+        "dtstart": "2024-10-22 12:00:00+00:00",
+        "dtend": "2024-10-22 14:00:00+00:00",
+        "location": "003, H\u00f6rsaal 2, \"Interims II\" (5416.01.003)",
+        "user_added": false
+    },
+    "b9c37997488b40b836c23ddaa8b3d72c": {
+        "summary": "Concepts of C++ Programming (CIT323000) VO, Standardgruppe",
+        "dtstart": "2024-11-19 13:00:00+00:00",
+        "dtend": "2024-11-19 15:00:00+00:00",
+        "location": "003, H\u00f6rsaal 2, \"Interims II\" (5416.01.003)",
+        "user_added": false
+    },
+    "030fff44c8d4332c8fed7fb75b6a3b27": {
+        "summary": "Rechnerarchitektur (IN2076) VO, Standardgruppe",
+        "dtstart": "2025-01-28 11:30:00+00:00",
+        "dtend": "2025-01-28 13:00:00+00:00",
+        "location": "00.04.011, MI H\u00f6rsaal 2 (5604.EG.011)",
+        "user_added": false
+    },
+    "cec1e5af858958b109197d4f995cb600": {
+        "summary": "Rechnerarchitektur (IN2076) VO, Standardgruppe",
+        "dtstart": "2024-12-06 11:00:00+00:00",
+        "dtend": "2024-12-06 13:00:00+00:00",
+        "location": "00.04.011, MI H\u00f6rsaal 2 (5604.EG.011)",
+        "user_added": false
+    },
+    "45a9e70bd797b1a1773f42793c3597ba": {
+        "summary": "Rechnerarchitektur (IN2076) VO, Standardgruppe",
+        "dtstart": "2024-12-13 11:00:00+00:00",
+        "dtend": "2024-12-13 13:00:00+00:00",
+        "location": "00.04.011, MI H\u00f6rsaal 2 (5604.EG.011)",
+        "user_added": false
+    },
+    "baec68c0457639647945e0688c104888": {
+        "summary": "Rechnerarchitektur (IN2076) VO, Standardgruppe",
+        "dtstart": "2025-02-07 11:00:00+00:00",
+        "dtend": "2025-02-07 13:00:00+00:00",
+        "location": "00.04.011, MI H\u00f6rsaal 2 (5604.EG.011)",
+        "user_added": false
+    },
+    "89aee089203866c53a0d5900667dbb44": {
+        "summary": "Echtzeitsysteme (IN2060) VO, Standardgruppe",
+        "dtstart": "2024-11-14 15:00:00+00:00",
+        "dtend": "2024-11-14 18:00:00+00:00",
+        "location": "003, H\u00f6rsaal 2, \"Interims II\" (5416.01.003)",
+        "user_added": false
+    },
+    "333d45d52ae13541632d504a722a21d3": {
+        "summary": "Echtzeitsysteme (IN2060) VO, Standardgruppe",
+        "dtstart": "2024-11-21 15:00:00+00:00",
+        "dtend": "2024-11-21 18:00:00+00:00",
+        "location": "003, H\u00f6rsaal 2, \"Interims II\" (5416.01.003)",
+        "user_added": false
+    },
+    "91305403e50fd354ba0f30347ae35724": {
+        "summary": "Netzwerke f\u00fcr den Zahlungsverkehr (IN2161) VO, Standardgruppe",
+        "dtstart": "2025-01-20 17:00:00+00:00",
+        "dtend": "2025-01-20 19:00:00+00:00",
+        "location": "102, H\u00f6rsaal 2, \"Interims I\" (5620.01.102)",
+        "user_added": false
+    },
+    "c9f2af70d4f08ea76abad62c9cd0e76f": {
+        "summary": "Virtualisierungstechniken (IN2125) VO, Standardgruppe",
+        "dtstart": "2024-10-18 12:00:00+00:00",
+        "dtend": "2024-10-18 15:00:00+00:00",
+        "location": "00.5901.051, H\u00f6rsaal (5901.EG.051)",
+        "user_added": false
+    },
+    "1f9ed6170114a4f378adf7ecd9c45f12": {
+        "summary": "Virtualisierungstechniken (IN2125) VO, Standardgruppe",
+        "dtstart": "2024-10-25 12:00:00+00:00",
+        "dtend": "2024-10-25 15:00:00+00:00",
+        "location": "00.5901.051, H\u00f6rsaal (5901.EG.051)",
+        "user_added": false
+    },
+    "b12691b8557689eaead4f4f232d6e026": {
+        "summary": "Virtualisierungstechniken (IN2125) VO, Standardgruppe",
+        "dtstart": "2025-01-17 13:00:00+00:00",
+        "dtend": "2025-01-17 16:00:00+00:00",
+        "location": "00.5901.051, H\u00f6rsaal (5901.EG.051)",
+        "user_added": false
+    },
+    "764035528706ea4a65327ef1c5c85db0": {
+        "summary": "Virtualisierungstechniken (IN2125) VO, Standardgruppe",
+        "dtstart": "2025-01-24 13:00:00+00:00",
+        "dtend": "2025-01-24 16:00:00+00:00",
+        "location": "00.5901.051, H\u00f6rsaal (5901.EG.051)",
+        "user_added": false
+    },
+    "b539ce6d12b1332c30e21797e267c6b1": {
+        "summary": "Patterns in Software Engineering (IN2081) VI, Standardgruppe",
+        "dtstart": "2024-12-02 09:00:00+00:00",
+        "dtend": "2024-12-02 13:00:00+00:00",
+        "location": "00.02.001, MI HS 1, Friedrich L. Bauer H\u00f6rsaal (5602.EG.001)",
+        "user_added": false
+    },
+    "d6e75ffc71ad6e027469be11e737fc82": {
+        "summary": "Concepts of C++ Programming (CIT323000) VO, Standardgruppe",
+        "dtstart": "2024-11-25 13:30:00+00:00",
+        "dtend": "2024-11-25 16:00:00+00:00",
+        "location": "MW 0001, H\u00f6rsaal (5510.EG.001)",
+        "user_added": false
+    },
+    "c3842c378903bf89d1e68a9278efb8c5": {
+        "summary": "Concepts of C++ Programming (CIT323000) VO, Standardgruppe",
+        "dtstart": "2025-01-20 13:30:00+00:00",
+        "dtend": "2025-01-20 16:00:00+00:00",
+        "location": "MW 0001, H\u00f6rsaal (5510.EG.001)",
+        "user_added": false
+    },
+    "be2ab681f2f72e160c3437f0a94f7c74": {
+        "summary": "Concepts of C++ Programming (CIT323000) VO, Standardgruppe",
+        "dtstart": "2025-01-14 13:00:00+00:00",
+        "dtend": "2025-01-14 15:00:00+00:00",
+        "location": "003, H\u00f6rsaal 2, \"Interims II\" (5416.01.003)",
+        "user_added": false
+    },
+    "a0a891cefeccc51da6aa5522c249990f": {
+        "summary": "Concepts of C++ Programming (CIT323000) VO, Standardgruppe",
+        "dtstart": "2025-01-21 13:00:00+00:00",
+        "dtend": "2025-01-21 15:00:00+00:00",
+        "location": "003, H\u00f6rsaal 2, \"Interims II\" (5416.01.003)",
+        "user_added": false
+    },
+    "43d07a07782de53b044b642164084008": {
+        "summary": "Rechnerarchitektur (IN2076) VO, Standardgruppe",
+        "dtstart": "2024-10-29 11:30:00+00:00",
+        "dtend": "2024-10-29 13:00:00+00:00",
+        "location": "00.04.011, MI H\u00f6rsaal 2 (5604.EG.011)",
+        "user_added": false
+    },
+    "077e2f1dc71f8d485b6f7b62042a8e45": {
+        "summary": "Rechnerarchitektur (IN2076) VO, Standardgruppe",
+        "dtstart": "2025-01-10 11:00:00+00:00",
+        "dtend": "2025-01-10 13:00:00+00:00",
+        "location": "00.04.011, MI H\u00f6rsaal 2 (5604.EG.011)",
+        "user_added": false
+    },
+    "98cf0df3212386c56cf69f2b145c9c8f": {
+        "summary": "Rechnerarchitektur (IN2076) VO, Standardgruppe",
+        "dtstart": "2025-01-24 11:00:00+00:00",
+        "dtend": "2025-01-24 13:00:00+00:00",
+        "location": "00.04.011, MI H\u00f6rsaal 2 (5604.EG.011)",
+        "user_added": false
+    },
+    "5ca505ba982f4aa536f2a43d555288ce": {
+        "summary": "Echtzeitsysteme (IN2060) VO, Standardgruppe",
+        "dtstart": "2024-10-17 14:00:00+00:00",
+        "dtend": "2024-10-17 17:00:00+00:00",
+        "location": "003, H\u00f6rsaal 2, \"Interims II\" (5416.01.003)",
+        "user_added": false
+    },
+    "4e9e5aec63567add5696a8a6631f7b16": {
+        "summary": "Echtzeitsysteme (IN2060) VO, Standardgruppe",
+        "dtstart": "2024-12-19 15:00:00+00:00",
+        "dtend": "2024-12-19 18:00:00+00:00",
+        "location": "003, H\u00f6rsaal 2, \"Interims II\" (5416.01.003)",
+        "user_added": false
+    },
+    "f67b998390146a6cc0260c17f2876394": {
+        "summary": "Virtualisierungstechniken (IN2125) VO, Standardgruppe",
+        "dtstart": "2024-12-06 13:00:00+00:00",
+        "dtend": "2024-12-06 16:00:00+00:00",
+        "location": "00.5901.051, H\u00f6rsaal (5901.EG.051)",
+        "user_added": false
+    },
+    "f6fe2d9f4499b9d26415c99a1bb0f34b": {
+        "summary": "Virtualisierungstechniken (IN2125) VO, Standardgruppe",
+        "dtstart": "2024-12-20 13:00:00+00:00",
+        "dtend": "2024-12-20 16:00:00+00:00",
+        "location": "00.5901.051, H\u00f6rsaal (5901.EG.051)",
+        "user_added": false
+    },
+    "72a482b6eee31242d03e1a9a1f525a1f": {
+        "summary": "Patterns in Software Engineering (IN2081) VI, Standardgruppe",
+        "dtstart": "2024-11-18 09:00:00+00:00",
+        "dtend": "2024-11-18 13:00:00+00:00",
+        "location": "00.02.001, MI HS 1, Friedrich L. Bauer H\u00f6rsaal (5602.EG.001)",
+        "user_added": false
+    },
+    "0bdc9e578b49c4261b0d8fdf01cbe1f3": {
+        "summary": "Patterns in Software Engineering (IN2081) VI, Standardgruppe",
+        "dtstart": "2024-12-09 09:00:00+00:00",
+        "dtend": "2024-12-09 13:00:00+00:00",
+        "location": "00.02.001, MI HS 1, Friedrich L. Bauer H\u00f6rsaal (5602.EG.001)",
+        "user_added": false
+    },
+    "be5b5bbc90cb0c3624657e1795a9d5fd": {
+        "summary": "Patterns in Software Engineering (IN2081) VI, Standardgruppe",
+        "dtstart": "2024-12-23 09:00:00+00:00",
+        "dtend": "2024-12-23 13:00:00+00:00",
+        "location": "00.02.001, MI HS 1, Friedrich L. Bauer H\u00f6rsaal (5602.EG.001)",
+        "user_added": false
+    },
+    "2e9f87e417f7128f11d06bcf55f1a14a": {
+        "summary": "Patterns in Software Engineering (IN2081) VI, Standardgruppe",
+        "dtstart": "2025-01-27 09:00:00+00:00",
+        "dtend": "2025-01-27 13:00:00+00:00",
+        "location": "00.02.001, MI HS 1, Friedrich L. Bauer H\u00f6rsaal (5602.EG.001)",
+        "user_added": false
+    },
+    "71575e2671db04bd9ad542d7cc33df0a": {
+        "summary": "Concepts of C++ Programming (CIT323000) VO, Standardgruppe",
+        "dtstart": "2024-11-04 13:30:00+00:00",
+        "dtend": "2024-11-04 16:00:00+00:00",
+        "location": "MW 0001, H\u00f6rsaal (5510.EG.001)",
+        "user_added": false
+    },
+    "b0d63a0b750d71538edb19a695ba136c": {
+        "summary": "Concepts of C++ Programming (CIT323000) VO, Standardgruppe",
+        "dtstart": "2024-12-23 13:30:00+00:00",
+        "dtend": "2024-12-23 16:00:00+00:00",
+        "location": "MW 0001, H\u00f6rsaal (5510.EG.001)",
+        "user_added": false
+    },
+    "43e69f01f8a0b46f9c5aee12cdfe10f6": {
+        "summary": "Concepts of C++ Programming (CIT323000) VO, Standardgruppe",
+        "dtstart": "2024-11-05 13:00:00+00:00",
+        "dtend": "2024-11-05 15:00:00+00:00",
+        "location": "003, H\u00f6rsaal 2, \"Interims II\" (5416.01.003)",
+        "user_added": false
+    },
+    "18354bf7cf9eb563ee31b0a90c5a3caf": {
+        "summary": "Rechnerarchitektur (IN2076) VO, Standardgruppe",
+        "dtstart": "2024-11-05 11:30:00+00:00",
+        "dtend": "2024-11-05 13:00:00+00:00",
+        "location": "00.04.011, MI H\u00f6rsaal 2 (5604.EG.011)",
+        "user_added": false
+    },
+    "aac6f0a64d92669e4d797d3f7bad107f": {
+        "summary": "Echtzeitsysteme (IN2060) VO, Standardgruppe",
+        "dtstart": "2025-01-09 15:00:00+00:00",
+        "dtend": "2025-01-09 18:00:00+00:00",
+        "location": "003, H\u00f6rsaal 2, \"Interims II\" (5416.01.003)",
+        "user_added": false
+    },
+    "dbe979bee2a680b62607901474819d7e": {
+        "summary": "Echtzeitsysteme (IN2060) VO, Standardgruppe",
+        "dtstart": "2025-01-16 15:00:00+00:00",
+        "dtend": "2025-01-16 18:00:00+00:00",
+        "location": "003, H\u00f6rsaal 2, \"Interims II\" (5416.01.003)",
+        "user_added": false
+    },
+    "2767d00c8200559a67b7184c1a78eba2": {
+        "summary": "Echtzeitsysteme (IN2060) VO, Standardgruppe",
+        "dtstart": "2025-01-23 15:00:00+00:00",
+        "dtend": "2025-01-23 18:00:00+00:00",
+        "location": "003, H\u00f6rsaal 2, \"Interims II\" (5416.01.003)",
+        "user_added": false
+    },
+    "0f0b3703007e899a90a7ad759a15c779": {
+        "summary": "Echtzeitsysteme (IN2060) VO, Standardgruppe",
+        "dtstart": "2025-01-30 15:00:00+00:00",
+        "dtend": "2025-01-30 18:00:00+00:00",
+        "location": "003, H\u00f6rsaal 2, \"Interims II\" (5416.01.003)",
+        "user_added": false
+    },
+    "2bde19cf3e0f4325c58010513fdd15e9": {
+        "summary": "Netzwerke f\u00fcr den Zahlungsverkehr (IN2161) VO, Standardgruppe",
+        "dtstart": "2024-11-04 17:00:00+00:00",
+        "dtend": "2024-11-04 19:00:00+00:00",
+        "location": "102, H\u00f6rsaal 2, \"Interims I\" (5620.01.102)",
+        "user_added": false
+    },
+    "d4aae5130c47a6118d8d2dab68f18487": {
+        "summary": "Virtualisierungstechniken (IN2125) VO, Standardgruppe",
+        "dtstart": "2024-12-13 13:00:00+00:00",
+        "dtend": "2024-12-13 16:00:00+00:00",
+        "location": "00.5901.051, H\u00f6rsaal (5901.EG.051)",
+        "user_added": false
+    },
+    "fcdb618c206d114bd6877a80dbc078ff": {
+        "summary": "Patterns in Software Engineering (IN2081) VI, Standardgruppe",
+        "dtstart": "2024-11-11 09:00:00+00:00",
+        "dtend": "2024-11-11 13:00:00+00:00",
+        "location": "00.02.001, MI HS 1, Friedrich L. Bauer H\u00f6rsaal (5602.EG.001)",
+        "user_added": false
+    },
+    "11fe4f344ee9272f1c7d960be788af2e": {
+        "summary": "Concepts of C++ Programming (CIT323000) VO, Standardgruppe",
+        "dtstart": "2025-01-07 13:00:00+00:00",
+        "dtend": "2025-01-07 15:00:00+00:00",
+        "location": "003, H\u00f6rsaal 2, \"Interims II\" (5416.01.003)",
+        "user_added": false
+    },
+    "b9dc98cf0312ebaaa135dfddcf32a13b": {
+        "summary": "Rechnerarchitektur (IN2076) VO, Standardgruppe",
+        "dtstart": "2024-11-26 11:30:00+00:00",
+        "dtend": "2024-11-26 13:00:00+00:00",
+        "location": "00.04.011, MI H\u00f6rsaal 2 (5604.EG.011)",
+        "user_added": false
+    },
+    "abb9c5cf5c766969c4512653510124c6": {
+        "summary": "Rechnerarchitektur (IN2076) VO, Standardgruppe",
+        "dtstart": "2024-12-10 11:30:00+00:00",
+        "dtend": "2024-12-10 13:00:00+00:00",
+        "location": "00.04.011, MI H\u00f6rsaal 2 (5604.EG.011)",
+        "user_added": false
+    },
+    "6baac5a0833b38e0ff43b641eaf60e51": {
+        "summary": "Rechnerarchitektur (IN2076) VO, Standardgruppe",
+        "dtstart": "2024-12-17 11:30:00+00:00",
+        "dtend": "2024-12-17 13:00:00+00:00",
+        "location": "00.04.011, MI H\u00f6rsaal 2 (5604.EG.011)",
+        "user_added": false
+    },
+    "5a19a68e9980b60d89f5c08793392894": {
+        "summary": "Rechnerarchitektur (IN2076) VO, Standardgruppe",
+        "dtstart": "2025-02-04 11:30:00+00:00",
+        "dtend": "2025-02-04 13:00:00+00:00",
+        "location": "00.04.011, MI H\u00f6rsaal 2 (5604.EG.011)",
+        "user_added": false
+    },
+    "c9c59ee918b97b21402f0027c25f15de": {
+        "summary": "Rechnerarchitektur (IN2076) VO, Standardgruppe",
+        "dtstart": "2024-12-20 11:00:00+00:00",
+        "dtend": "2024-12-20 13:00:00+00:00",
+        "location": "00.04.011, MI H\u00f6rsaal 2 (5604.EG.011)",
+        "user_added": false
+    },
+    "fdfce7dda2bcc7423e2ba23a1a749620": {
+        "summary": "Echtzeitsysteme (IN2060) VO, Standardgruppe",
+        "dtstart": "2024-10-24 14:00:00+00:00",
+        "dtend": "2024-10-24 17:00:00+00:00",
+        "location": "003, H\u00f6rsaal 2, \"Interims II\" (5416.01.003)",
+        "user_added": false
+    },
+    "0178a24bbeb88f5626e57762f1840f51": {
+        "summary": "Netzwerke f\u00fcr den Zahlungsverkehr (IN2161) VO, Standardgruppe",
+        "dtstart": "2024-10-21 16:00:00+00:00",
+        "dtend": "2024-10-21 18:00:00+00:00",
+        "location": "102, H\u00f6rsaal 2, \"Interims I\" (5620.01.102)",
+        "user_added": false
+    },
+    "2e4b2b8170511b502bae2fe404f77ce3": {
+        "summary": "Netzwerke f\u00fcr den Zahlungsverkehr (IN2161) VO, Standardgruppe",
+        "dtstart": "2024-11-18 17:00:00+00:00",
+        "dtend": "2024-11-18 19:00:00+00:00",
+        "location": "102, H\u00f6rsaal 2, \"Interims I\" (5620.01.102)",
+        "user_added": false
+    },
+    "1bb902d585aa08690fb441c82a304492": {
+        "summary": "Netzwerke f\u00fcr den Zahlungsverkehr (IN2161) VO, Standardgruppe",
+        "dtstart": "2024-12-09 17:00:00+00:00",
+        "dtend": "2024-12-09 19:00:00+00:00",
+        "location": "102, H\u00f6rsaal 2, \"Interims I\" (5620.01.102)",
+        "user_added": false
+    },
+    "7a7df70278f717f5d1236ed1f017a88d": {
+        "summary": "Virtualisierungstechniken (IN2125) VO, Standardgruppe",
+        "dtstart": "2024-11-29 13:00:00+00:00",
+        "dtend": "2024-11-29 16:00:00+00:00",
+        "location": "00.5901.051, H\u00f6rsaal (5901.EG.051)",
+        "user_added": false
+    },
+    "bc1b6d824a881c8a8855ac0935c5ce7b": {
+        "summary": "Patterns in Software Engineering (IN2081) VI, Standardgruppe",
+        "dtstart": "2024-10-28 09:00:00+00:00",
+        "dtend": "2024-10-28 13:00:00+00:00",
+        "location": "00.02.001, MI HS 1, Friedrich L. Bauer H\u00f6rsaal (5602.EG.001)",
+        "user_added": false
+    },
+    "fdc4b11d79cb11ca35c2e85cb0960686": {
+        "summary": "Patterns in Software Engineering (IN2081) VI, Standardgruppe",
+        "dtstart": "2024-11-04 09:00:00+00:00",
+        "dtend": "2024-11-04 13:00:00+00:00",
+        "location": "00.02.001, MI HS 1, Friedrich L. Bauer H\u00f6rsaal (5602.EG.001)",
+        "user_added": false
+    },
+    "1dcdeca5a963b9c78278d336aa0d8d57": {
+        "summary": "Concepts of C++ Programming (CIT323000) VO, Standardgruppe",
+        "dtstart": "2024-12-09 13:30:00+00:00",
+        "dtend": "2024-12-09 16:00:00+00:00",
+        "location": "MW 0001, H\u00f6rsaal (5510.EG.001)",
+        "user_added": false
+    },
+    "138eb81db3972a76cd13f4d234fa9514": {
+        "summary": "Concepts of C++ Programming (CIT323000) VO, Standardgruppe",
+        "dtstart": "2025-02-03 13:30:00+00:00",
+        "dtend": "2025-02-03 16:00:00+00:00",
+        "location": "MW 0001, H\u00f6rsaal (5510.EG.001)",
+        "user_added": false
+    },
+    "63c918725699a8e0783d6e1c64c81ce6": {
+        "summary": "Concepts of C++ Programming (CIT323000) VO, Standardgruppe",
+        "dtstart": "2024-12-10 13:00:00+00:00",
+        "dtend": "2024-12-10 15:00:00+00:00",
+        "location": "003, H\u00f6rsaal 2, \"Interims II\" (5416.01.003)",
+        "user_added": false
+    },
+    "dab747c70a788fdb35ba057afd9da650": {
+        "summary": "Concepts of C++ Programming (CIT323000) VO, Standardgruppe",
+        "dtstart": "2024-12-17 13:00:00+00:00",
+        "dtend": "2024-12-17 15:00:00+00:00",
+        "location": "003, H\u00f6rsaal 2, \"Interims II\" (5416.01.003)",
+        "user_added": false
+    },
+    "2cb7d672441722c1ab950f03ab50d046": {
+        "summary": "Rechnerarchitektur (IN2076) VO, Standardgruppe",
+        "dtstart": "2025-01-31 11:00:00+00:00",
+        "dtend": "2025-01-31 13:00:00+00:00",
+        "location": "00.04.011, MI H\u00f6rsaal 2 (5604.EG.011)",
+        "user_added": false
+    },
+    "fcf2dbf4ad5117b5f21f10cee0aa7e1e": {
+        "summary": "Fachschaftsvollversammlung - Computation, Information and Technology (IN) VO, Standardgruppe",
+        "dtstart": "2024-10-30 09:00:00+00:00",
+        "dtend": "2024-10-30 10:30:00+00:00",
+        "location": "00.02.001, MI HS 1, Friedrich L. Bauer H\u00f6rsaal (5602.EG.001)",
+        "user_added": false
+    },
+    "a6b4a80cf31203016d34f42c953bb6d6": {
+        "summary": "Echtzeitsysteme (IN2060) VO, Standardgruppe",
+        "dtstart": "2024-11-28 15:00:00+00:00",
+        "dtend": "2024-11-28 18:00:00+00:00",
+        "location": "003, H\u00f6rsaal 2, \"Interims II\" (5416.01.003)",
+        "user_added": false
+    },
+    "6dc448937423c50d29833108559251ef": {
+        "summary": "Netzwerke f\u00fcr den Zahlungsverkehr (IN2161) VO, Standardgruppe",
+        "dtstart": "2024-11-11 17:00:00+00:00",
+        "dtend": "2024-11-11 19:00:00+00:00",
+        "location": "102, H\u00f6rsaal 2, \"Interims I\" (5620.01.102)",
+        "user_added": false
+    },
+    "28a81d330cd0f04d58c5bb58564e753c": {
+        "summary": "Netzwerke f\u00fcr den Zahlungsverkehr (IN2161) VO, Standardgruppe",
+        "dtstart": "2025-01-13 17:00:00+00:00",
+        "dtend": "2025-01-13 19:00:00+00:00",
+        "location": "102, H\u00f6rsaal 2, \"Interims I\" (5620.01.102)",
+        "user_added": false
+    },
+    "0081bd3b5311e3629254f633e11c9bb6": {
+        "summary": "Netzwerke f\u00fcr den Zahlungsverkehr (IN2161) VO, Standardgruppe",
+        "dtstart": "2025-01-27 17:00:00+00:00",
+        "dtend": "2025-01-27 19:00:00+00:00",
+        "location": "102, H\u00f6rsaal 2, \"Interims I\" (5620.01.102)",
+        "user_added": false
+    },
+    "4e695e19989abefbe5ac7de679a04355": {
+        "summary": "Virtualisierungstechniken (IN2125) VO, Standardgruppe",
+        "dtstart": "2024-11-15 13:00:00+00:00",
+        "dtend": "2024-11-15 16:00:00+00:00",
+        "location": "00.5901.051, H\u00f6rsaal (5901.EG.051)",
+        "user_added": false
+    },
+    "34e54ab621d854379758851be4ad35ee": {
+        "summary": "Concepts of C++ Programming (CIT323000) VO, Standardgruppe",
+        "dtstart": "2024-10-21 12:30:00+00:00",
+        "dtend": "2024-10-21 15:00:00+00:00",
+        "location": "MW 0001, H\u00f6rsaal (5510.EG.001)",
+        "user_added": false
+    },
+    "a0baeb2320ba5b89d6ab2b47a5493d63": {
+        "summary": "Concepts of C++ Programming (CIT323000) VO, Standardgruppe",
+        "dtstart": "2024-11-18 13:30:00+00:00",
+        "dtend": "2024-11-18 16:00:00+00:00",
+        "location": "MW 0001, H\u00f6rsaal (5510.EG.001)",
+        "user_added": false
+    },
+    "1a5b08c5e6a4b376bf94409b67f373e7": {
+        "summary": "Concepts of C++ Programming (CIT323000) VO, Standardgruppe",
+        "dtstart": "2025-01-13 13:30:00+00:00",
+        "dtend": "2025-01-13 16:00:00+00:00",
+        "location": "MW 0001, H\u00f6rsaal (5510.EG.001)",
+        "user_added": false
+    },
+    "d362900c68e533b2ab9ba2f949604aad": {
+        "summary": "Concepts of C++ Programming (CIT323000) VO, Standardgruppe",
+        "dtstart": "2025-01-27 13:30:00+00:00",
+        "dtend": "2025-01-27 16:00:00+00:00",
+        "location": "MW 0001, H\u00f6rsaal (5510.EG.001)",
+        "user_added": false
+    },
+    "68d97e980c79f9be3274d6c77bd11d6b": {
+        "summary": "Concepts of C++ Programming (CIT323000) VO, Standardgruppe",
+        "dtstart": "2024-10-29 13:00:00+00:00",
+        "dtend": "2024-10-29 15:00:00+00:00",
+        "location": "003, H\u00f6rsaal 2, \"Interims II\" (5416.01.003)",
+        "user_added": false
+    },
+    "f86c0ee68715cc391c5f370072305294": {
+        "summary": "Concepts of C++ Programming (CIT323000) VO, Standardgruppe",
+        "dtstart": "2024-11-12 13:00:00+00:00",
+        "dtend": "2024-11-12 15:00:00+00:00",
+        "location": "003, H\u00f6rsaal 2, \"Interims II\" (5416.01.003)",
+        "user_added": false
+    },
+    "e17c50b9610891c1a0ee7c24ee7e7864": {
+        "summary": "Concepts of C++ Programming (CIT323000) VO, Standardgruppe",
+        "dtstart": "2024-12-03 13:00:00+00:00",
+        "dtend": "2024-12-03 15:00:00+00:00",
+        "location": "003, H\u00f6rsaal 2, \"Interims II\" (5416.01.003)",
+        "user_added": false
+    },
+    "19ec7f76f08080f06947389a55c3db88": {
+        "summary": "Concepts of C++ Programming (CIT323000) VO, Standardgruppe",
+        "dtstart": "2025-01-28 13:00:00+00:00",
+        "dtend": "2025-01-28 15:00:00+00:00",
+        "location": "003, H\u00f6rsaal 2, \"Interims II\" (5416.01.003)",
+        "user_added": false
+    },
+    "3c81e2cda1a7bf8aa067cba048c847e0": {
+        "summary": "Rechnerarchitektur (IN2076) VO, Standardgruppe",
+        "dtstart": "2024-10-25 10:00:00+00:00",
+        "dtend": "2024-10-25 12:00:00+00:00",
+        "location": "00.04.011, MI H\u00f6rsaal 2 (5604.EG.011)",
+        "user_added": false
+    },
+    "d82ecc29af4a9d16d77cbaedde2fc3e4": {
+        "summary": "Rechnerarchitektur (IN2076) VO, Standardgruppe",
+        "dtstart": "2025-01-17 11:00:00+00:00",
+        "dtend": "2025-01-17 13:00:00+00:00",
+        "location": "00.04.011, MI H\u00f6rsaal 2 (5604.EG.011)",
+        "user_added": false
+    },
+    "c82ffcd4e0a02a11f8832ae3de63b6c3": {
+        "summary": "Rechnerarchitektur (IN2076) VO, Standardgruppe",
+        "dtstart": "2024-11-08 11:00:00+00:00",
+        "dtend": "2024-11-08 13:00:00+00:00",
+        "location": "0.001A, H\u00f6rsaal 1A, \"Zelt\" (5539.EG.001A)",
+        "user_added": false
+    },
+    "03a331271cbf660996457803383ce27d": {
+        "summary": "Echtzeitsysteme (IN2060) VO, Standardgruppe",
+        "dtstart": "2025-02-06 15:00:00+00:00",
+        "dtend": "2025-02-06 18:00:00+00:00",
+        "location": "003, H\u00f6rsaal 2, \"Interims II\" (5416.01.003)",
+        "user_added": false
+    },
+    "20ce01b136d0e9d1448974e69ffe947d": {
+        "summary": "Netzwerke f\u00fcr den Zahlungsverkehr (IN2161) VO, Standardgruppe",
+        "dtstart": "2024-12-16 17:00:00+00:00",
+        "dtend": "2024-12-16 19:00:00+00:00",
+        "location": "102, H\u00f6rsaal 2, \"Interims I\" (5620.01.102)",
+        "user_added": false
+    },
+    "0f4261e44111712650a857e5e8068f24": {
+        "summary": "Netzwerke f\u00fcr den Zahlungsverkehr (IN2161) VO, Standardgruppe",
+        "dtstart": "2024-12-23 17:00:00+00:00",
+        "dtend": "2024-12-23 19:00:00+00:00",
+        "location": "102, H\u00f6rsaal 2, \"Interims I\" (5620.01.102)",
+        "user_added": false
+    },
+    "8b7bf1cfb8ff4506deadf1971b0892a6": {
+        "summary": "Virtualisierungstechniken (IN2125) VO, Standardgruppe",
+        "dtstart": "2024-11-08 13:00:00+00:00",
+        "dtend": "2024-11-08 16:00:00+00:00",
+        "location": "00.5901.051, H\u00f6rsaal (5901.EG.051)",
+        "user_added": false
+    },
+    "ffcbfee36d1726baf400c0600a3827cd": {
+        "summary": "Virtualisierungstechniken (IN2125) VO, Standardgruppe",
+        "dtstart": "2025-01-31 13:00:00+00:00",
+        "dtend": "2025-01-31 16:00:00+00:00",
+        "location": "00.5901.051, H\u00f6rsaal (5901.EG.051)",
+        "user_added": false
+    },
+    "23f82aacab6f3af05640a80232860a5e": {
+        "summary": "Patterns in Software Engineering (IN2081) VI, Standardgruppe",
+        "dtstart": "2024-11-25 09:00:00+00:00",
+        "dtend": "2024-11-25 13:00:00+00:00",
+        "location": "00.02.001, MI HS 1, Friedrich L. Bauer H\u00f6rsaal (5602.EG.001)",
+        "user_added": false
+    },
+    "fa75c28ed26003a2457a91353d8538c2": {
+        "summary": "Patterns in Software Engineering (IN2081) VI, Standardgruppe",
+        "dtstart": "2025-01-13 09:00:00+00:00",
+        "dtend": "2025-01-13 13:00:00+00:00",
+        "location": "00.02.001, MI HS 1, Friedrich L. Bauer H\u00f6rsaal (5602.EG.001)",
+        "user_added": false
+    },
+    "23e7ad2eb23f658ba50aea9f75b78a68": {
+        "summary": "Concepts of C++ Programming (CIT323000) VO, Standardgruppe",
+        "dtstart": "2024-11-26 13:00:00+00:00",
+        "dtend": "2024-11-26 15:00:00+00:00",
+        "location": "003, H\u00f6rsaal 2, \"Interims II\" (5416.01.003)",
+        "user_added": false
+    },
+    "0bad9885c1cfb4a0c397452cde40d05f": {
+        "summary": "Concepts of C++ Programming (CIT323000) VO, Standardgruppe",
+        "dtstart": "2025-02-04 13:00:00+00:00",
+        "dtend": "2025-02-04 15:00:00+00:00",
+        "location": "003, H\u00f6rsaal 2, \"Interims II\" (5416.01.003)",
+        "user_added": false
+    }
+}
